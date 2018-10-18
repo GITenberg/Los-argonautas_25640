@@ -18,6 +18,7 @@ Author: Vicente Blasco Ibáñez
 
 
 Release Date: May 30, 2008  [eBook #25640]
+[Last updated: May 17, 2015]
 
 Language: Spanish
 
@@ -3480,7 +3481,7 @@ Ojeda acogió estas palabras con un gesto de asombro.
 --No quiero decir--continuó Isidro--que el grande hombre fuese embustero
 a sabiendas, pero tenía el defecto o la cualidad de todos los que,
 viniendo de abajo, llegan a una altura gloriosa. Arreglaba a su gusto
-los sucesos de la vida anterior desfiguraba el pasado de acuerdo con sus
+los sucesos de la vida anterior, desfiguraba el pasado de acuerdo con sus
 conveniencias. Era como algunos millonarios del presente, que en sus
 primeros tiempos de riqueza confiesan con orgullo las miserias de los
 años juveniles; pero luego, cuando crecen sus hijos y forman dinastía
@@ -3738,7 +3739,7 @@ esta novela colombiana, el traidor es el honrado Martín Alonso, que lo
 puso todo en la empresa del descubrimiento para no sacar nada y perder
 encima la vida. Usted conoce la verdadera historia. Cuando Colón,
 vagabundo de incierta nacionalidad, andaba por Palos no sabiendo qué
-hacer. Pinzón le escuchó y le animó con sus informes de viejo navegante
+hacer, Pinzón le escuchó y le animó con sus informes de viejo navegante
 del Océano convencido de la existencia de nuevas tierras.
 
 Los reyes concedían su licencia al aventurero para el primer viaje, pero
@@ -3919,7 +3920,7 @@ nuevo que tenía otro Océano a espaldas.
 piloto italiano, Américo Vespucio, el cual, atribuyéndose glorias
 ajenas, bautizó con su nombre el nuevo continente, demuestra cuán
 olvidado estaba Colón, no en España, sino fuera de ella. Este bautizo de
-América es injusto, pero no carece de lógica Colón sólo había
+América es injusto, pero no carece de lógica. Colón sólo había
 descubierto el Asia, y en esta fe murió. Américo Vespucio fue el primero
 que hizo saber al mundo (gracias a las sucesivas exploraciones de los
 marinos españoles) que esta mentida Asia era un continente nuevo, y los
@@ -10194,7 +10195,7 @@ invitadoras y palabras insinuantes, permanecían tendidos en las
 cubiertas. Los que a la caída de la tarde parecían reanimarse con la
 brisa y se estiraban impulsivamente, lo mismo que fieras carnívoras que
 despiertan, quedábanse ahora hundidos en los sillones del fumadero con
-la inconsciencia ciencia de la boa enrollada, siguiendo vagamente las
+la inconsciencia de la boa enrollada, siguiendo vagamente las
 espirales de humo del cigarro.
 
 Parejas amigas, de cuyas intimidades se ocupaban con deleite los
@@ -13213,7 +13214,7 @@ las lamparillas eléctricas: algo así como si lloviese sal o hielo
 molido. Un espectáculo fantástico, Ojeda... Al principio sólo se siente
 frío en los pies; luego sube y sube el maldito entre el pantalón y la
 pierna, y a los pocos momentos cree uno que va calzado con polainas de
-hielo... ¡Y qué «paisajes se ven en esas profundidades!
+hielo... ¡Y qué «paisajes» se ven en esas profundidades!
 
 Evocaba Isidro el recuerdo de los enormes cuartos de buey rojos y
 amarillos, con la grasa congelada de su goteo formando estalactitas.
@@ -15702,7 +15703,7 @@ esta aventura con una gran inquietud de conciencia. ¿Qué hacer ahora?...
 el desaliento que habían seguido a su delirio amoroso. Al despertar y
 serenarse, un gesto suyo de resignación, un adiós humilde, habían dado a
 entender a Fernando que no se hacía ilusiones acerca del porvenir. Todo
-estaba concluido. Y cuanto él i dijese por restablecer el pasado sería
+estaba concluido. Y cuanto él dijese por restablecer el pasado sería
 piadosa mentira, falsedad galante para enmascarar su decepción.
 
 En el resto de la tarde habían evitado encontrarse otra vez: ella como
@@ -18622,7 +18623,7 @@ dolor.
 
 Buscaba Gómez, mientras tanto, con la cabeza baja examinando el suelo.
 Su instinto de hombre de campo, habituado a estudiar los más pequeños
-accidentes de la inmensa llanura argentina, su con los maravillosos
+accidentes de la inmensa llanura argentina, su trato con los maravillosos
 «rastreadores», adivinos de la Pampa, le hizo encontrar la explicación
 de este misterio. Señaló a algunos pasos un diminuto orificio abierto en
 el suelo. Allí estaba enterrada la bala. Mostró después un guijarro
@@ -20570,7 +20571,7 @@ aclamaban a las pequeñas personas alineadas en sus bordas creyendo
 reconocerlas; acogían como una respuesta a estos vivas el rugido apagado
 que llegaba hasta ellos por encima del mar. Algunos, con el
 enardecimiento de su entusiasmo, daban el viva extravagante y heroico de
-las grandes batallas el que acompaña al populacho armado y patriótico de
+las grandes batallas, el que acompaña al populacho armado y patriótico de
 los «rotos» en sus empresas hazañescas, la aclamación reveladora de un
 carácter testarudo, capaz de ir adelante por encima de todos los
 obstáculos.
